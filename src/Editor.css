@@ -1,0 +1,16 @@
+.editor {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 0 10%;
+    /* min-height: 200px; */
+    height: 70vh;
+  }
+  .RED_LINE {
+    border-bottom: 2px solid red; /* Adjust the border style as needed */
+  }
+  
+  /* Define style for underline */
+  .UNDERLINE {
+    text-decoration: underline;
+  }
